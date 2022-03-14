@@ -151,4 +151,4 @@ __pycache__
 .coverage
 htmlcov
 src/docs/build/doctrees
-!src/docs/build/html/*.*
+!/docs/build/html/*.*
